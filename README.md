@@ -113,7 +113,7 @@ Features:
 
 ## Model Summary
 
-![Model Summary](model_summary.png)
+![Model Summary](model_summary.png.png)
 
 ## Accuracy Graph
 
@@ -121,19 +121,19 @@ Features:
 
 ## Loss Graph
 
-![Loss Graph](loss_graph.png)
+![Loss Graph](loss_graph.png.png)
 
 ## Cat Prediction
 
-![Cat Prediction](cat_prediction.png)
+![Cat Prediction](cat_prediction.png.png)
 
 ## Dog Prediction
 
-![Dog Prediction](dog_prediction.png)
+![Dog Prediction](dog_prediction.png.png)
 
 ## Streamlit Deployment
 
-![Streamlit Deployment](streamlit_deployment.png)
+![Streamlit Deployment](streamlit_deployment.png.png)
 ---
 
 ## ✅ Advantages
