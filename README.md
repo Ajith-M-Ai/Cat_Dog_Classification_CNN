@@ -111,30 +111,29 @@ Features:
 
 ## 📸 Project Screenshots
 
-### Model Summary
+## Model Summary
 
-(Add model_summary.png)
+![Model Summary](model_summary.png)
 
-### Accuracy Graph
+## Accuracy Graph
 
-(Add accuracy_graph.png)
+![Accuracy Graph](accuracy_graph.png)
 
-### Loss Graph
+## Loss Graph
 
-(Add loss_graph.png)
+![Loss Graph](loss_graph.png)
 
-### Cat Prediction
+## Cat Prediction
 
-(Add cat_prediction.png)
+![Cat Prediction](cat_prediction.png)
 
-### Dog Prediction
+## Dog Prediction
 
-(Add dog_prediction.png)
+![Dog Prediction](dog_prediction.png)
 
-### Streamlit Deployment
+## Streamlit Deployment
 
-(Add streamlit_deployment.png)
-
+![Streamlit Deployment](streamlit_deployment.png)
 ---
 
 ## ✅ Advantages
